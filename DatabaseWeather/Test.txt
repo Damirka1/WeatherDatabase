@@ -1,0 +1,9 @@
+0 Russia Novosibirsk 12:30 27 50
+1 Kazakhstan Karaganda 19:30 20 70
+2 France Paris 22:30 23 70
+3 Kazakhstan Temirtau 23:30 19 70
+4 Russia Moscow 22:30 18 70
+5 Germany Berlin 18:30 24 80
+6 Japan Tokyo 14:30 25 80
+7 China Pekin 22:30 25 75
+8 Canada Monreal 12:40 -30 80
